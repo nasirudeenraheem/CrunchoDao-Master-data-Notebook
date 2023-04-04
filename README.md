@@ -8,7 +8,8 @@ CrunchDAO is a research team leveraging the power of collective intelligence and
 
 Read More - https://nasere4567.medium.com/the-crunchdao-machine-learning-competition-be86cfb1b81f
 
-Outline
+## Outline
+
 Load the data
 
 Investigate the data
